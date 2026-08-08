@@ -1,0 +1,2 @@
+# Hosting-a-gaming-application-on-modern-cloud-infrastructure-via-azure-devops-CI-CD-pipelines.
+This project will divide in 2 parts : Build pipeline &amp; Release pipeline and in Build Pipeline if developers makes any change in git hub repository it will trigger the build pipeline Release Pipeline will  automatically get triggered and it will pull the artifact from the build pipeline and it will deploy on the Azure Container on Azure App Services
